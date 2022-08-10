@@ -38,6 +38,8 @@ STEPS
     - Update package.json file
             add the start and build scripts to it
 
-    - Run “npm run build”
+    - Run 
+            npm run build
 
-    - Run “npm start”
+    - Run 
+            npm start
