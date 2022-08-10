@@ -50,4 +50,6 @@ REFERENCES
     - https://blog.bitsrc.io/  create-react-app-without-create-react-app-b0a5806a92
 
     - https://blog.devgenius.io/how-to-create-a-react-app-without-using-create-react-app-c004a62b52fc
+    
+    - https://www.innominds.com/blog/create-a-react-app-without-create-react-app
    
