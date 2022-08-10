@@ -33,7 +33,7 @@ STEPS
 
     - Create webpack.config.js file
 
-    -  Create .babelrc file
+    - Create .babelrc file
 
     - Update package.json file
             add the start and build scripts to it
